@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Ahmed Mohammed</h1>
-<h2 align="center">Welcome to my GitHub profile</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla7ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla7ahmed" /> </p>
 
