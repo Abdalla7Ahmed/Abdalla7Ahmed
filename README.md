@@ -1,7 +1,8 @@
 <h1 align="center">  Hi 👋, I'm Abdallah Ahmed Mohammed</h1>
 <h1 align="left"> 📝 I am a communication and electronics student</h1>
 <h1 align="left"> 👀 I am interested in studying Embedded System</h1>
-<h1 align="left"> 📫 How to reach me by gmail  abdallahahmed17120@gmail.com </h1>
+- 📫 How to reach me **abdallahahmed17120@gmail.com**
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla7ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla7ahmed" /> </p>
