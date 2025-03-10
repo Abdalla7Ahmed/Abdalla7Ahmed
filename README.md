@@ -1,6 +1,6 @@
 <h1 align="center">  Hi 👋, I'm Abdallah Ahmed Mohammed</h1>
-<h1 align="left"> 📝 I am a communication and electronics student</h1>
-<h1 align="left"> 👀 I am interested in studying Embedded System</h1>
+<h1 align="left"> 📝 I am a passionate Software developer from Egypt</h1>
+<h1 align="left"> 👀 I am interested in studying Embedded Linux and Embedded System</h1>
 
 
 - 📫 How to reach me **abdallahahmed17120@gmail.com**
